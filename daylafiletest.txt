@@ -4,3 +4,5 @@ da~ thay doi noi dung
 hehehe
 git remote add origin https://github.com/saocungduocx2/ccptpm.git
 git push -u origin master
+
+news
